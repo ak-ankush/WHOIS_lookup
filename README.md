@@ -24,6 +24,8 @@ Output:
 - Data is printed in two clearly separated sections
   -  Domain Registration Information
   -  IP Address Ownership Details
+
+Output Example:
 ![image](https://github.com/user-attachments/assets/1088bf40-2371-4494-b92a-ad03f19b7169)
 
 Installation:
